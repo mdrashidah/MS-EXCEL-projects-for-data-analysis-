@@ -1,4 +1,4 @@
-# **MS-EXCEL-projects**
+# **MS-EXCEL-projects for-data-analysis** 📊📉📈
 ---
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/2485988d-9b52-4e07-87a5-037ce57b39e6" />
 
