@@ -1,4 +1,6 @@
 # **Bike Sales Survey Report & Dashboard Project** 🚲📊
+---
+<img width="1024" height="505" alt="image" src="https://github.com/user-attachments/assets/f7b1194a-4ddf-4199-a660-6138a6953d7d" />
 
 This repository contains a comprehensive data analysis and interactive dashboard project focusing on a **Bike Sales Survey**. The primary objective of this project is to clean, process, and analyse customer survey data to unearth valuable insights regarding bike-purchasing behaviour, demographic influences, and commuting patterns.
 
@@ -16,6 +18,7 @@ This repository contains a comprehensive data analysis and interactive dashboard
 
 The interactive dashboard provides a comprehensive visual summary of customer demographics and purchasing trends, equipped with functional slicers for dynamic data filtering.
 ---
+<img width="730" height="411" alt="Picture1" src="https://github.com/user-attachments/assets/4854bc0b-e3df-49b9-81b7-799644f25e3e" />
 
 ---
 
