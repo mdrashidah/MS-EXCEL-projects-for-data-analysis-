@@ -20,6 +20,7 @@ The interactive dashboard provides a comprehensive visual summary of customer de
 ---
 <img width="730" height="411" alt="Picture1" src="https://github.com/user-attachments/assets/4854bc0b-e3df-49b9-81b7-799644f25e3e" />
 
+Analyzed 1,000+ customer survey records to uncover key demographic drivers in bike purchasing behavior. Built interactive Excel dynamic dashboards using Pivot Tables & slicers to optimize targeted marketing segments.
 ---
 
 ## 🛠️ Methodology & Technical Workflow
