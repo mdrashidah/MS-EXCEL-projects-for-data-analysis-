@@ -1,6 +1,6 @@
 # **MS-EXCEL-projects for-data-analysis** 📊📉📈
 ---
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/2485988d-9b52-4e07-87a5-037ce57b39e6" />
+<img width="1024" height="434" alt="image" src="https://github.com/user-attachments/assets/8e29a2d5-ead4-4e9b-a3f5-cd1ed77bfe0f" />
 
 ---
 A comprehensive collection of Microsoft Excel projects showcasing advanced data analysis, automation, and visualization techniques. This repository demonstrates practical Excel applications for business intelligence, reporting automation, and decision-making support.
